@@ -1,3 +1,7 @@
+[![GitHub stars](https://img.shields.io/github/stars/domoy77/system-monitor-pro-desktop?style=social)](https://github.com/domoy77/system-monitor-pro-desktop/stargazers)
+![Platform](https://img.shields.io/badge/Platform-Linux-success)
+[![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-yellow.svg)](https://buymeacoffee.com/domoy77)
+
 Tesnet Task III For linux : Ubuntu/Debian, Fedora/RHEL, Arch
 
 1. Install Update
